@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋🏻 Hello, l'm Sushant Pathak.<br>🎓 Currently, l'm persuing Bachelor's of Computer Applications at BIT Mesra.<br>👨🏻‍💻 I've learned Java, SQL, C, C++ and HTML.<br>💻 I'm currently learning CSS JS.<br>📲 Social Handles :- Instagram - sushant.__.pathak | GMail - sushantpathaksp2003@gmail.com<br>
+👋🏻 Hello, l'm Sushant Pathak.<br>🎓 Currently, l'm persuing Bachelor's of Computer Applications at BIT Mesra.<br>👨🏻‍💻 I've learned Python, Java, SQL, C, C++, HTML, CSS, and Javascript.<br>💻 I'm currently learning Natural Language Processing(NLP), Deep Learning(DL).<br>📲 Social Handles :- Linkedin - linkedin.com/in/sushant-pathak-97461225a | Instagram - sushant.__.pathak | GMail - sushantpathaksp2003@gmail.com<br>
 
 
 ## 🌐 Socials:
